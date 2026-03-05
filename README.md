@@ -4,7 +4,7 @@
 
 3D level-based platformer game made in a frictionless virtual game environment with cube meshes and the main purpose of the game is to dodge the obstacles to get to the finish line of the current level. This project developed to get a grasp on Unity's physics engine and applying fundamental game loop principles.
 
-<img src="Game Video/The Cube Dodger Recording for GitHub.gif" width="250" height="250"/>
+<img src="Game Video/The Cube Dodger Recording for GitHub.gif" width="500" height="350"/>
 
 ## Technical Stack
 
